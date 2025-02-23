@@ -37,13 +37,6 @@
 
 ---
 
-### **📌 Next Steps**
-🔹 Want a **LICENSE file** (MIT, Apache, etc.) for open-source release?  
-🔹 Need **GitHub Actions for CI/CD** setup?  
-🔹 Would you like **deployment steps (Docker, AWS, etc.)**?  
-
-Let me know how I can assist further! 🚀
-
 ```sh
 git clone https://github.com/your-username/ai-mental-health-assistant.git
 cd ai-mental-health-assistant
