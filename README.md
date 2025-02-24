@@ -28,7 +28,7 @@ An AI-driven web application that helps users maintain work-life balance, manage
 ---
 
 ## Tech Stack
-- **Frontend**: React.js, TailwindCSS 
+- **Frontend**: React.js, TailwindCSS, Next.js, TypeScript
 - **Backend**: Flask/FastAPI  
 - **Machine/Deep Learning**: Scikit-learn, TensorFlow/Keras, XGBoost, Random Forest, LSTM, RNN
 - **NLP & Chatbot**: OpenAI API, Hugging Face Transformers  
