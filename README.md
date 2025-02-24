@@ -93,7 +93,7 @@ cd ai-mental-health-assistant
 
 
 ---
-### ** What This README Covers**
+###  What This README Covers
 -  **Introduction & Features**
 -  **Tech Stack**
 - **Installation & Running Instructions**
