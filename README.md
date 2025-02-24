@@ -64,7 +64,7 @@ cd ai-mental-health-assistant
 
 ###  **7. AI-Powered Emotion Detection**
 - Use **facial recognition & voice analysis** to detect emotions.
-- 
+
 ---
 ###  What This README Covers
 -  **Introduction & Features**
